@@ -11,4 +11,4 @@
 ![image](https://github.com/Jibinghao/TimeSelector/blob/master/example/example.gif)
 
 ## 改装后的效果
-![image](https://github.com/zxy-hunan/Timesel/blob/main/IMG_20211201_104436.jpg）
+![image](https://github.com/zxy-hunan/Timesel/blob/main/IMG_20211201_104436.jpg)
